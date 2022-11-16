@@ -13,9 +13,11 @@ Preview https://yq0tqk.csb.app/
 
 ## TODO
 
+ - Remove "magic numbers" in App.tsx
+ - Add music
+ - Allow changing panel size
  - Allow selecting control panels colors
  - Allow setting players names
- - Allow changing panel size
  - Improve changing ball direction on hit to panel
  - Technical: use css animations instead of setting position via JS
 
